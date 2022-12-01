@@ -1,0 +1,12 @@
+[package]
+name = "dialog-rendering"
+version = "0.0.1"
+edition = "2021"
+
+[[bin]]
+name = "dialog-rendering"
+path = "src/main.rs"
+
+[features]
+# no features by default
+window = []

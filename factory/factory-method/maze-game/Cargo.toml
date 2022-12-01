@@ -1,0 +1,11 @@
+[package]
+name = "maze-game"
+version = "0.0.1"
+edition = "2021"
+
+[[bin]]
+name = "maze-game"
+path = "src/main.rs"
+
+[features]
+# no features by default
