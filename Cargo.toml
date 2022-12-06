@@ -3,4 +3,5 @@ members = [
   "factory/factory-method/dialog-rendering",
   "factory/factory-method/maze-game",
   "builder/car",
+  "prototype",
 ]
