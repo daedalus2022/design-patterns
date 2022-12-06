@@ -2,6 +2,7 @@ use crate::{components::{Engine, CarType, GpsNavigator, Transminssion}, cars::Ma
 
 use super::Builder;
 
+#[derive(Default)]
 pub struct CarManualBuilder{
     car_type: Option<CarType>,
     engine: Option<Engine>,
