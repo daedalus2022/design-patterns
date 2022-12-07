@@ -4,4 +4,7 @@ members = [
   "factory/factory-method/maze-game",
   "builder/car",
   "prototype",
+  "singleton/safe",
+  "singleton/lazy",
+  "singleton/mutex",
 ]
