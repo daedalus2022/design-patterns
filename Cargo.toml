@@ -7,4 +7,5 @@ members = [
   "singleton/safe",
   "singleton/lazy",
   "singleton/mutex",
+  "adapter",
 ]
