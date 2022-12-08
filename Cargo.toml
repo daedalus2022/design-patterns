@@ -9,4 +9,5 @@ members = [
   "singleton/mutex",
   "adapter",
   "cor",
+  "filter",
 ]
