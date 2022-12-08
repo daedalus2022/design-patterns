@@ -8,4 +8,5 @@ members = [
   "singleton/lazy",
   "singleton/mutex",
   "adapter",
+  "cor",
 ]
