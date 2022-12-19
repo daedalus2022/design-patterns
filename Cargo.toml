@@ -10,4 +10,5 @@ members = [
   "adapter",
   "cor",
   "filter",
+  "command",
 ]
