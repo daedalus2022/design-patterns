@@ -1,0 +1,19 @@
+[package]
+name = "memento"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
+[[bin]]
+name = "conceptual"
+path = "src/conceptual.rs"
+
+# [[bin]]
+# name = "echo-client"
+# path = "src/echo/client.rs"
+
+[dependencies]
+serde_json = "1.0.82"
+serde = {version="1.0.138", features = ["derive"]}
