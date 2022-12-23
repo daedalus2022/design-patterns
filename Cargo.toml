@@ -14,4 +14,5 @@ members = [
   "iterators",
   "mediator",
   "memento",
+  "observer",
 ]
