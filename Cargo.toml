@@ -15,4 +15,6 @@ members = [
   "mediator",
   "memento",
   "observer",
+  "state",
+  
 ]
