@@ -16,5 +16,6 @@ members = [
   "memento",
   "observer",
   "state",
+  "strategy",
   
 ]
