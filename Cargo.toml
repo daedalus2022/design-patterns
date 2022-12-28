@@ -17,5 +17,6 @@ members = [
   "observer",
   "state",
   "strategy",
+  "template",
   
 ]
