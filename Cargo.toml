@@ -18,5 +18,6 @@ members = [
   "state",
   "strategy",
   "template",
+  "visitor",
   
 ]
