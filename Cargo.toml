@@ -19,5 +19,7 @@ members = [
   "strategy",
   "template",
   "visitor",
+  "bridge",
+  
   
 ]
