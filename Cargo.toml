@@ -20,6 +20,7 @@ members = [
   "template",
   "visitor",
   "bridge",
+  "composite",
   
   
 ]
