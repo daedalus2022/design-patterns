@@ -22,4 +22,5 @@ members = [
   "bridge",
   "composite",
   "decorator",
+  "facade",
 ]
