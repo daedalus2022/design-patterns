@@ -25,6 +25,7 @@ members = [
   "facade",
   "proxy",
   "timer_future",
+  "simple_http_server",
 
   
   
